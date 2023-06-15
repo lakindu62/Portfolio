@@ -21,8 +21,8 @@ export default function WIP() {
         name='Lunar Labyrinth'
         imgSrc='/images/wip-assets/game.jpg'
         description='2D game with an inbuilt local storage leaderboard to compete with friends'
-        // siteHref = 'https://z-pal.netlify.app/'
-        // githubHref = 'https://github.com/lakindu62/Z-Pal'
+        siteHref = 'https://youtu.be/Ej7bL7m9nMY'
+        githubHref = 'https://github.com/lakindu62/Lunar-Labyrinth-2DGame'
         skills={['HTML', 'CSS', 'Javascript']}
       />
       <div>

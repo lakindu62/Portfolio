@@ -45,10 +45,10 @@ export default function Work() {
                         <li>React</li>
                     </ul>
                     <div className="work__links">
-                        <a href="#" className="link__text">
+                        <a href="https://thejana-wahalathanthri.netlify.app/" className="link__text">
                             Visit Site <span>&rarr;</span>
                         </a>
-                        <a href="#">
+                        <a href="https://github.com/lakindu62/Portfolio-Thejana">
                             <img src="/images/github.svg" className="work__code" title="View Source Code" alt="GitHub" />
                         </a>
                     </div>
